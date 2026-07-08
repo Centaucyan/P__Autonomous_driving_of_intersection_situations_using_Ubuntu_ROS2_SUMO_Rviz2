@@ -13,9 +13,13 @@
 * **Visualization Tool:** RViz2
 ---
 
-## 3. Install
-### 3.1. SUMO(Simulation of Urban MObility)
-* **Reference site:** https://sumo.dlr.de/docs/Installing/index.html
+## 3. Reference
+* **Install:** https://sumo.dlr.de/docs/Installing/index.html
+* **Git:** https://github.com/eclipse-sumo/sumo.git
+---
+
+## 4. Install
+### 4.1. SUMO(Simulation of Urban MObility)
 * sudo add-apt-repository ppa:sumo/stable
 * sudo apt update
 * sudo apt install sumo sumo-tools sumo-doc
