@@ -1,8 +1,8 @@
 # P__Autonomous_driving_of_intersection_situations_using_Ubuntu_ROS2_SUMO_Rviz2
 
 ## 1. Description
-* SUMO(Simulation of Urban Mobility)의 사용법을 익히고 경험해보고자 함.
-* 이를 위해 ROS 2와 RViz 2를 연동하여 자율주행을 시뮬레이션해보는 개인 프로젝트.
+* SUMO(Simulation of Urban MObility)의 사용법을 익히고 경험해보고자 함.
+* SUMO와 ROS2, RViz2를 연동하여 자율주행 시뮬레이션을 위한 개인 프로젝트.
 ---
 
 ## 2. Environment
